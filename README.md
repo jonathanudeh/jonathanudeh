@@ -1,41 +1,43 @@
-# 👋 Hi, I'm Jonathan Udeh
+# Jonathan Udeh
 
-💡 Passionate about building beautiful, functional web apps that solve real problems.
-🚀 Currently learning Fullstack Development while exploring SaaS ideas and personal projects.
-🌱 I enjoy working with React, Next.js, and Tailwind CSS and bringing ideas to life through clean, creative code.
+I build digital products at the intersection of engineering, systems, and user experience.
 
----
-
-## 🧰 Tech Stack
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
-**Backend:** Node.js, Express.js, PostgreSQL, MongoDB (learning)
-**Other Tools:** Git, Framer Motion, Vite
-
+Most of the work I enjoy starts as rough ideas, operational friction, or ambitious product goals and eventually becomes software people genuinely rely on.
 
 ---
 
-## 🌟 Featured Projects
-- 🎮 [Hangman Game](https://github.com/jonathanudeh/hangman-game)   
-  ⤷ [Live Demo](https://unhang.vercel.app/) — A fun, interactive word-guessing game with an on-screen keyboard.
-  
-- ❌⭕ [Tic Tac Toe Game](https://github.com/jonathanudeh/tic-tac-toe)  
-  ⤷ [Live Demo](https://playtoe.vercel.app/) — The classic game rebuilt with modern UI and smooth animations.
-  
-- ⏳ [Pomodoro Timer](https://github.com/jonathanudeh/pomodoro-timer)  
-  ⤷ [Live Demo](https://pomobae.vercel.app/) — A productivity timer with a circular progress animation built using Framer Motion.
-   
-- 🚀 [Goal and Habit tracker](https://github.com/jonathanudeh/trackmate)
-  ⤷ [Live Demo](https://trackmate-tau.vercel.app/) — Track habits and goals with progress visualization and stats.
-  
-- 🍕 [Fast React Pizza](https://github.com/jonathanudeh/fast-react-pizza) — A learning project focusing on React Router and state management.
-- 🌍 [Worldwise](https://github.com/jonathanudeh/worldwise) — A geo-travel tracking app built while learning React Router and context state patterns.
-  
+## Currently
 
+- Building products for brands, businesses and founders
+- Exploring scalable systems, product engineering, and system architecture
+- Interested in software that feels intuitive, fast, and difficult to replace
+
+---
+
+## Stack
+
+Node.js • Express.js • Java • TypeScript • JavaScript • React • Next.js • PostgreSQL • MongoDB • Docker • Tailwind CSS • Git
+
+
+---
+
+## Selected Work
+
+### Archiv
+A centralized academic resource platform built to improve discovery and accessibility of educational materials across schools and departments.
+
+### [Mealverse](https://www.mealverse.app/)
+An AI-powered meal planning platform focused on reducing decision fatigue and improving food exploration experiences.
+
+### [WotArena](https://whotarena.vercel.app/)
+A realtime multiplayer Whot experience built around live state synchronization, matchmaking, and interactive gameplay systems.
+  
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/jonathan-udeh-a86766329)  
-[Twitter](https://x.com/jaywritescodes)
+[Website](https://jonathanudeh.vercel.app)
+[LinkedIn](https://linkedin.com/in/jonathanudeh)  
+[X](https://x.com/jaywritescodes)
 
 ---
 
