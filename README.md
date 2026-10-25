@@ -16,7 +16,7 @@ Most of the work I enjoy starts as rough ideas, operational friction, or ambitio
 
 ## Stack
 
-Node.js • Express.js • Java • TypeScript • JavaScript • React • Next.js • PostgreSQL • MongoDB • Docker • Tailwind CSS • Git
+Node.js • Express.js • React Native •  Java • TypeScript • JavaScript • React • Next.js • PostgreSQL • MongoDB • Docker • Tailwind CSS • Git
 
 
 ---
